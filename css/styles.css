@@ -652,7 +652,6 @@ input[type='checkbox'] {
 	padding-top: 0.100rem;
 	padding-bottom: 0.200rem;
 	background-color: white;
-	
 	transition: all 0.2s;
 }
 
@@ -758,6 +757,7 @@ input[type='checkbox'] {
 
 .navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-times{
 	display: none;
+	
 }
 
 .navbar-custom button[aria-expanded='false'] .navbar-toggler-awesome.fas.fa-bars{
